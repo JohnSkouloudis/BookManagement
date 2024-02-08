@@ -1,0 +1,22 @@
+{
+  "name": "it2021091",
+  "version": "1.0.0",
+  "description": "WebDev project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "express"
+  ],
+  "author": "it2021091",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "oracledb": "^6.0.0"
+  }
+}
